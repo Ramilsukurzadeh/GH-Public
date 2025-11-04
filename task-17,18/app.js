@@ -208,10 +208,10 @@
 // let year = Number(prompt("Enter a year:")); 
 
 // if (year % 4 === 0) {
-//   console.log("İl uzun ildir");
+//   console.log("Year is long one");
 
 // } else {
-//   console.log("İl uzun il deyil");
+//   console.log("Year is not long");
 // }
 
 // 23)
