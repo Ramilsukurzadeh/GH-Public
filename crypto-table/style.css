@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  overflow: hidden;
+}
+
+th {
+  background: #1e3a8a;
+  color: white;
+  padding: 12px;
+  text-align: left;
+  font-size: 16px;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #eeeeeef3;
+  font-size: 15px;
+}
+
+tr:hover {
+  background: #e1e7f2;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+
+.green{
+  color: green;
+  font: bold;
+}
+
+.red{
+  color: red;
+  font: bold;
+}
